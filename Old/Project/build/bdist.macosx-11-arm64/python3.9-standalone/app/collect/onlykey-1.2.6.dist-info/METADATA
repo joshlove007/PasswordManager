@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: onlykey
+Version: 1.2.6
+Summary: OnlyKey client and command-line tool
+Home-page: https://github.com/trustcrypto/python-onlykey
+Author: CryptoTrust
+Author-email: admin@crp.to
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: hidapi
+Requires-Dist: aenum
+Requires-Dist: six
+Requires-Dist: prompt-toolkit (>=2)
+Requires-Dist: pynacl (>=1.4.0)
+Requires-Dist: ecdsa (>=0.13)
+Requires-Dist: Cython (>=0.23.4)
+Requires-Dist: onlykey-solo-python (>=0.0.28)
+
+UNKNOWN
+
